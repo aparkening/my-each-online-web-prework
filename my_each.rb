@@ -9,5 +9,5 @@ def my_each(words)
 end
 
 # Call method
-collection = [1, 2, 3, 4]
-my_each(collection) { |i| print i }
+# collection = [1, 2, 3, 4]
+# my_each(collection) { |i| print i }
